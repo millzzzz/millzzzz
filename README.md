@@ -1,6 +1,6 @@
 ### Ahoj 👋
 
-- ⚡ Fun fact: I'm quadralingual so communication shouldn't be an issue!
+passionate about all things in Web Development 🖥
 
 <!---- 🔭 I’m currently working on websites for Flip Makers, Kolektív
 - 🌱 I’m currently learning Vue.js 👯 I’m looking to collaborate on ...
@@ -8,4 +8,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- ⚡ Fun fact: I'm quadralingual so communication shouldn't be an issue!
+-->
