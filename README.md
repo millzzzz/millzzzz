@@ -1,6 +1,7 @@
 ### Ahoj 🌱
 
-building...
+"everything I do is for my 17 year old self"
+est. 2019
 <!---- passionate about all things in Web Development 🖥 -->
 
 <!---- 🔭 I’m currently working on websites for Flip Makers, Kolektív
