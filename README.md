@@ -1,6 +1,8 @@
-### Ahoj 👋
+### Ahoj 🌱
 
-passionate about all things in Web Development 🖥
+"give me a brick, i will build you a house." -- 2025
+
+<!---- passionate about all things in Web Development 🖥 -->
 
 <!---- 🔭 I’m currently working on websites for Flip Makers, Kolektív
 - 🌱 I’m currently learning Vue.js 👯 I’m looking to collaborate on ...
