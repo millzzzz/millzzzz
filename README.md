@@ -1,7 +1,6 @@
 ### Ahoj 🌱
 
-"give me a brick, i will build you a house." -- 2025
-
+building...
 <!---- passionate about all things in Web Development 🖥 -->
 
 <!---- 🔭 I’m currently working on websites for Flip Makers, Kolektív
