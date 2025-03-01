@@ -4,25 +4,28 @@ I'm currently working on all things modern web development, sophisticated fast F
 
 🌱My public list of topics I'm passionate about in 2025:
 
-- I will call this the "triple Ws" (WebAssembly/WebGPU/WebGL)
+- Typescript and related distributed graphics and real-time technologies like WebAssembly/WebGPU/WebGL/Web Socket
 - Common Lisp and its applicatins in music projects like Open Music, related Sonic Pi, Supercollider, etc.
+- Haskell/Elixir functional prommming languages paradigm
 - Rhino/Grasshopper workflow enhancement and plugin development
-- Local-centric multi-modal AI/ML fine-tuned models training
-- Three.js storytelling + animation libraries of all kinds (Drei, react-spring
-- LazyVim (also Lua)
-- Unreal Engine
-- related Autodesk & Adobe suite proficiency
+- Local-first AI/ML multi-modal fine-tuned computer vision model training using kinematic motion data and its potential in movement-based art forms like breaking 🪩
+- LLM model training, RAG, niche synthetic GraphRAG experimental techniques
+- 3D graphics computing and rendering in Unreal Engine, Keyshot, Cinema 4D
+- Three.js storytelling + animation libraries Theatre.js, Drei, react-spring, GSAP, etc
+- AutoCAD/Solidworks, Revit, Adobe Illustrator, Adobe After Effects
 - functional programming in Haskell/Elixir
 - low-level embedded programming in Rust/Gleam/Zig
+- miscellaneous: Bun.js, Prismic, Redis, GraphQl, Payload CMS, Supabase, PostgresSQL
 
-miscellaneous: Bun.js, Prismic, Redis, GraphQl, Payload CMS, Supabase, PostgresSQL
+little bit more effort: Adobe Animate, OpenToonz, ProCreate Dreams
+brush up: Figma
 
-BUT I'm most excited about Phoenix LiveView as of this moment!
+BUT I'm most excited about Lua's embeddable potential + Phoenix LiveView as of this moment!
 
-                                                                --2025
+                                                                                          --2025
 
-<-- "everything I do is for my 17 year old self"
-est. 2019 -->
+<!---- "everything I do is for my 17 year old self"
+est. 2019 !---->
 <!---- passionate about all things in Web Development 🖥 -->
 
 <!---- 🔭 I’m currently working on websites for Flip Makers, Kolektív
