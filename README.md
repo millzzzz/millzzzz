@@ -4,6 +4,7 @@ I'm currently working on all things modern web development, sophisticated fast F
 
 🌱My public list of topics I'm passionate about in 2025:
 
+HIGH PRIORITY:
 - Typescript and related distributed graphics and real-time technologies like WebAssembly/WebGPU/WebGL/Web Socket
 - Common Lisp and its applicatins in music projects like Open Music, related Sonic Pi, Supercollider, etc.
 - Haskell/Elixir functional prommming languages paradigm
@@ -15,14 +16,15 @@ I'm currently working on all things modern web development, sophisticated fast F
 - AutoCAD/Solidworks, Revit, Adobe Illustrator, Adobe After Effects
 - functional programming in Haskell/Elixir
 - low-level embedded programming in Rust/Gleam/Zig
-- miscellaneous: Bun.js, Prismic, Redis, GraphQl, Payload CMS, Supabase, PostgresSQL
+- e-ink technology deep work tools creation like LightPhone
+- JUCE software innovation, music hardware prototyping, new music curation & archivist technology, networks, DJ scratching techniques, public light installations like Signal Festival --> this is where I'm from ! 🇨🇿
 
-little bit more effort: Adobe Animate, OpenToonz, ProCreate Dreams
-brush up: Figma
+Less priority:
+- miscellaneous: kinetic furniture, industrial design, Bun.js, Prismic, Redis, GraphQl, Payload CMS, Supabase, PostgresSQL
+- little bit more effort: Adobe Animate, OpenToonz, ProCreate Dreams
+- brush up: Figma
 
 BUT I'm most excited about Lua's embeddable potential + Phoenix LiveView as of this moment!
-
-                                                                                          --2025
 
 <!---- "everything I do is for my 17 year old self"
 est. 2019 !---->
