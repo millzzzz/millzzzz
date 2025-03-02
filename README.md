@@ -17,7 +17,7 @@ HIGH PRIORITY:
 - functional programming in Haskell/Elixir
 - low-level embedded programming in Rust/Gleam/Zig
 - e-ink technology deep work tools creation like LightPhone
-- JUCE software innovation, music hardware prototyping, new music curation & archivist technology, networks, DJ scratching techniques, public light installations like Signal Festival --> this is where I'm from ! 🇨🇿
+- JUCE software innovation, music hardware prototyping, new music curation & archivist technology, networks, DJ scratching techniques, public light installations like annual projection-mapping public art initiative titled Signal Festival held anually in Prague --> this is where I'm from ! 🇨🇿
 
 Less priority:
 - miscellaneous: kinetic furniture, industrial design, Bun.js, Prismic, Redis, GraphQl, Payload CMS, Supabase, PostgresSQL
